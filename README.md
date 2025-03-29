@@ -1,4 +1,6 @@
-# Project File Structure
+# Express + Passport Boilerplate Written in TypeScript
+
+## Project File Structure
 
 This project follows a structured approach inspired by [this blog post](https://blog.logrocket.com/organizing-express-js-project-structure-better-productivity/), which provides best practices for organizing Express.js applications to enhance productivity and maintainability.
 
